@@ -1,0 +1,27 @@
+{
+    "name": "aqjw/resource-typeable",
+    "description": "Extends the capabilities of the Laravel resource to separate it into types.",
+    "keywords": [
+        "laravel",
+        "resource"
+    ],
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aqjw\\ResourceTypeable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anton",
+            "email": "anton.shever96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "version": "1.0.0"
+}
